@@ -1,8 +1,0 @@
-#add this to your i3status file
-general {
-  output_format = "i3bar"
-  colors = true
-  color_good = "#40A735"
-  color_degraded = "#EA8730"
-  color_bad = "#FF6291"
-}
